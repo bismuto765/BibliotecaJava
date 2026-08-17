@@ -1,2 +1,2 @@
 # BibliotecaJava
-Ropositório do projeto Junta.Ai
+Ropositório do projeto Java
